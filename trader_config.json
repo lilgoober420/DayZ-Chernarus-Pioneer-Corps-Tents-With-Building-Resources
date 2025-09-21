@@ -1,0 +1,29 @@
+{
+    "TraderCategories": [
+        {
+            "CategoryName": "PARAGON TACTICAL CLOTHES TOPS",
+            "DisplayName": "PARAGON TACTICAL CLOTHES TOPS",
+            "Items": [
+                {
+                    "ClassName": "paragon_tacjacket_black",
+                    "MaxPriceThreshold": 1000,
+                    "MinPriceThreshold": 500,
+                    "SellPricePercent": 50,
+                    "MaxStockThreshold": 10,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": 100,
+                    "Variants": [
+                        "Paragon_Hoodie_Black",
+                        "Paragon_Hoodie_White",
+                        "Paragon_Hoodie_Grey",
+                        "Paragon_Hoodie_Red",
+                        "Paragon_Hoodie_Blue",
+                        "Paragon_Hoodie_Black_Nike",
+                        "Paragon_Hoodie_White_Nike",
+                        "Paragon_Hoodie_Grey_Nike"
+                    ]
+                }
+            ]
+        }
+    ]
+}
